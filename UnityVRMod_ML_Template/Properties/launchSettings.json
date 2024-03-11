@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AMPSonsVRMod_ML": {
+      "commandName": "Executable",
+      "executablePath": "G:\\SonsOfThe Forest_ML\\SonsOfTheForest.exe",
+      "workingDirectory": "C:\\Users\\antoniomauriello\\Desktop\\GAME  MOD\\VR_MOD\\AMPSonsVRMod_ML\\AMPSonsVRMod_ML"
+    }
+  }
+}
